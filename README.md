@@ -1,6 +1,6 @@
 # Sales Data Analysis Project
 
-##Dataset
+## Dataset
 
 The dataset used in this project is sourced from Kaggle:
 
