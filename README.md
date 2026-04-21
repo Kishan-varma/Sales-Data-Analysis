@@ -1,5 +1,16 @@
 # Sales Data Analysis Project
 
+##Dataset
+
+The dataset used in this project is sourced from Kaggle:
+
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+## Description
+- Retail sales dataset of a global superstore
+- Contains order, customer, product, and shipping details
+- Suitable for exploratory data analysis and sales forecasting
+
 ## Overview
 This project analyzes a retail sales dataset to uncover trends, patterns, and actionable business insights.
 
